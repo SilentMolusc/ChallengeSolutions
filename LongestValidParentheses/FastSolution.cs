@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
-public class GFG {
+public class FastSolution {
 	static public void Main() {
 		string caseCount = Console.ReadLine();
 		for (int c = 0; c < int.Parse(caseCount); c++) {
